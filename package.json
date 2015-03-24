@@ -1,0 +1,12 @@
+{
+  "name": "sequelize-query-performance-test",
+  "version": "1.0.0",
+  "description": "",
+  "author": "KTachyon",
+  "dependencies": {
+    "pg": "^4.3.0",
+    "pg-hstore": "^2.3.1",
+    "pg-native": "^1.8.0",
+    "sequelize": "2.0.5"
+  }
+}
